@@ -16,8 +16,8 @@ public class MultiplicationTable {
     public static void displayTable(int[][] table) {
         System.out.println("Multiplication Table:");
         for (int[] row : table) {
-            for (int value : row) {
-                System.out.printf("%4d", value);
+            for (int number : row) {
+                System.out.printf("%4d", number);
             }
             System.out.println();
         }
