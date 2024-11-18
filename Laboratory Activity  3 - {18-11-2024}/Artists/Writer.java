@@ -1,6 +1,5 @@
 package Artists;
 
-//Writer.java
 enum WritingStyle {
  FICTION, NONFICTION, POETRY, DRAMA
 }
