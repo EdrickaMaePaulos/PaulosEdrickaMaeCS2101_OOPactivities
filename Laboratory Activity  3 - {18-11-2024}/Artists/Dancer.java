@@ -1,6 +1,6 @@
 package Artists;
 
-//Dancer.java
+//Dancer
 enum DanceStyle {
  BALLET, HIPHOP, JAZZ, CONTEMPORARY
 }
