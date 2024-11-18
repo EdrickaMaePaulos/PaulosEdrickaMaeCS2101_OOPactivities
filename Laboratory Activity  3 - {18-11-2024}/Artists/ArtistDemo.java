@@ -1,6 +1,5 @@
 package Artists;
 
-//ArtistDemo
 public class ArtistDemo {
  public static void main(String[] args) {
 	 Artist artist = new Artist("Lindtsey Stacey Aubrey Sevilleja", 21, "Music");
