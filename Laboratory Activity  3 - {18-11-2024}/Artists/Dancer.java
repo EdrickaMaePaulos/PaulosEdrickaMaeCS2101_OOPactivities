@@ -1,6 +1,5 @@
 package Artists;
 
-//Dancer
 enum DanceStyle {
  BALLET, HIPHOP, JAZZ, CONTEMPORARY
 }
