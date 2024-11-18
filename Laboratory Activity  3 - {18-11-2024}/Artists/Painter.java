@@ -1,6 +1,5 @@
 package Artists;
 
-//Painter.java
 enum Medium {
  OIL, WATERCOLOR, ACRYLIC, PENCIL, CHARCOAL
 }
