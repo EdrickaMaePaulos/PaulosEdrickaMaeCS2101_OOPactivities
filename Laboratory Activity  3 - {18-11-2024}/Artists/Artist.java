@@ -1,6 +1,6 @@
 package Artists;
 
-//Artist.java
+//Artist
 public class Artist {
  private String name;
  private int age;
